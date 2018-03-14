@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: #85C1E9  ;
   font-family: 'Raleway', sans-serif;
 }
 
@@ -16,7 +16,7 @@ body {
 }
 
 .navigation  li.logo {
-  color: black;
+  color: red;
   font-size: 18px;
   font-weight: 700;
   letter-spacing: 4px;
@@ -31,7 +31,7 @@ body {
 }
 
 #banner .content h1 {
-  border: 3px solid white;
+  border: 10px solid ;
   position: relative;
   top: 50px;
   width: 400px;
@@ -48,8 +48,8 @@ body {
 }
 
 h1 {
-  color: white;
-  font-size: 42px;
+  color: black;
+  font-size: 60px;
   font-weight: 600;
   text-align: center;
 }
@@ -72,7 +72,7 @@ h3 {
 }
 
 p {
-  color: grey;
+  color: blue;
   font-size: 16px;
   line-height: 48px;
   margin-top: 60px;
@@ -149,11 +149,11 @@ li {
 }
 
 li:hover {
-  color: #DBE9EE;
+  color: purple;
 }
 
 h1 {
-  color: #466995;
+  color: red;
   font-family: 'Oswald', sans-serif;
   font-size: 32px;
   font-weight: 300;
@@ -189,7 +189,7 @@ h4 {
 }
 
 p {
-  color: #333;
+  color: red;
   font-family: 'Varela Round', sans-serif;
   font-size: 18px;
 }
@@ -292,7 +292,7 @@ h1 {
 /*Jumbotron Section*/
 
 .jumbotron {
-  background-color: #fff;
+  background-color: red;
   max-width: 1200px;
   margin-left: 50px;
 }
